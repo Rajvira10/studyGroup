@@ -1,0 +1,4 @@
+.body {
+  z-index: -20;
+  filter: blur(5%);
+}
